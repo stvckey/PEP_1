@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HMY8PAEFSZB3DSTYAS5N8GTZ
-  version: v2.2
----
-
 ### **Customers Table**
 ```
 - customer_id (Primary Key)
