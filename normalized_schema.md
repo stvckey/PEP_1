@@ -6,6 +6,7 @@
 ```
 
 ### **Demographics Table**
+```
 - customer_demographic_id (Foreign Key)
 - name
 - email
@@ -14,7 +15,7 @@
 - city
 - state
 - zip_code
-
+```
 
 ### **Credit Cards Table**
 ```
