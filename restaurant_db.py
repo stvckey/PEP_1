@@ -70,7 +70,7 @@ def get_customer_statistics(stats_df, demo_df):
         elif cust_stat_choice == 4:
             print(f'Total Spent: ${total_spent}')
         elif cust_stat_choice == 5:
-            print(f'Total Orders: {total_customers}')
+            print(f'Total Customers: {total_customers}')
             print(f'Total Orders: {total_orders}')
             print(f'Total Items: {total_items}')
             print(f'Total Spent: ${total_spent}')
