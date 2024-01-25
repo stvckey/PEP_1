@@ -10,5 +10,5 @@
 - To view the cleaned data and analytics, simply run `final_merged_customer_viz.ipynb`
 
 ### Database UI
-- Fill them in on how to use the UI, Mario!
+- To use the Database UI, switch to the Database_branch and run restaurant_db.py!
   
